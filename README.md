@@ -12,4 +12,16 @@
 
 ***
 ## PROJECT home page:
-(click onn this link)[  ];
+### PAGE HOME 
+***
+(click onn this link)[https://abel8260.github.io/famososcomco/page1.htm];
+
+***
+### PAGE 2
+(click onn this linK TO PAGE 2)[https://abel8260.github.io/famososcomco/page2.htm];
+
+***
+### PAGE 3
+(click onn this linK TO PAGE 2)[https://abel8260.github.io/famososcomco/page3.htm];
+
+***
