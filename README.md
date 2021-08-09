@@ -1,2 +1,9 @@
 # PROJECT NAME: famososcomco(F-000-001)
-- version:
+- version: oneshot;
+
+## Description
+***
+Languages:
+
+
+***
